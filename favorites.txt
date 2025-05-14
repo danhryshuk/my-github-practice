@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 - The Matrix\n- Inception\n- Interstellar
+=======
+- Varenyky\n- Borscht\n- Deruny
+>>>>>>> movies
